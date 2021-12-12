@@ -7,6 +7,10 @@ for fruit in fruits:
         cnt += 1
 
 
+
+        
+
+
 print(cnt)
 
 def count_fruits(name):
